@@ -1,8 +1,12 @@
 import React from 'react'
+import ItemListContainer from './Components/ItemListContainer'
 
+const saludos= "Hola a todos , Bienvenidos"
 const Main = () => {
   return (
-    <div>Main</div>
+    <>
+    <ItemListContainer greeting={saludos}/> 
+    </>
   )
 }
 

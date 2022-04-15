@@ -1,8 +1,8 @@
 const Footer=()=>{
     return(
         <footer>
-                    <p>Cpy rigth</p>
-                    <p>Cpy reservdo</p>
+                    <p>Hecho por David Martinez</p>
+                    <p>Derechos reservados</p>
             </footer>
     )
 }
