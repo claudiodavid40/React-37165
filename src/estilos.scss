@@ -55,3 +55,23 @@ color:rgb(247, 242, 242);
     color:darkorange;
     border-radius: 10px;
 }
+.producto{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.contador{
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+    flex-direction: row;
+    padding-top: 50px;
+}
